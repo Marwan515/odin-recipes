@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    background-color: darkkhaki;
+}
+
+body {
+    background-color: hsl(120, 100%, 80%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    width: 500px;
+}
